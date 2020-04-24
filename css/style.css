@@ -224,11 +224,12 @@ header {
   font-size: 14px;
   font-family: sans-serif;
   padding: 15px;
-  border: 3px solid #F3F3F3;
+  border: 2px solid #F3F3F3;
   border-radius: 10px;
   box-shadow: 0px 0px 20px 7px #F3F3F3;
   margin-bottom: 14px;
   opacity: 1;
+  z-index: -1;
 }
 .extra-3 textarea {
   margin-bottom: 0;
@@ -245,10 +246,10 @@ header {
 }
 .extra-3 .btn {
   display: block;
-  margin-top: 10px;
+  margin-top: 15px;
   color: white;
   background-color: #3829C4;
-  padding: 10px 30px;
+  padding: 15px 40px;
   width: 200px;
   border: none;
   border-radius: 10px;
@@ -256,5 +257,16 @@ header {
   -moz-border-radius: 10px;
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
+  transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  -o-transition: all 0.3s;
+}
+.extra-3 .btn:hover {
+opacity: 0.9;
+}
+.extra-3 .btn:active {
+  opacity: 1;
 }
 /* Extra 3 end --- by ilham_elhamdi*/

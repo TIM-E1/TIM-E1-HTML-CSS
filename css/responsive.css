@@ -26,6 +26,9 @@
     width: 100%;
     height: 300px;
   }
+  .extra-3 .btn {
+    margin: 0;
+  }
   /*Extra 3 begin --- by ilham_elhamdi*/
 }
 
