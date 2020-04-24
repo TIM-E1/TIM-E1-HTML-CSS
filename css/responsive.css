@@ -30,7 +30,30 @@
     margin: 0;
   }
   /*Extra 3 begin --- by ilham_elhamdi*/
+
+
+
+  footer input[type=text] {
+  width: 50%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-image: url('img/send.jpg');
+  background-position: 290px 6px; 
+  background-size:30px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+  border:none;
+  float:center;
 }
+
+
+}
+
 
 
 @media all and (max-width: 670px) {
@@ -87,5 +110,23 @@
     width: 100%;
   }
   /* Extra 3 end --- by ilham_elhamdi*/
+
+    footer input[type=text] {
+  width: 100%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-image: url('img/send.jpg');
+  background-position: 290px 6px; 
+  background-size:30px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+  border:none;
+  float:center;
+}
 
 }

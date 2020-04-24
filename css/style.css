@@ -284,13 +284,13 @@ footer{
 }
 
 footer input[type=text] {
-  width: 25%;
+  width: 30%;
   box-sizing: border-box;
   border: 2px solid #ccc;
   border-radius: 4px;
   font-size: 16px;
   background-color: white;
-  background-image: url('http://127.0.0.1/github/TIM-E1-HTML-CSS/img/send.jpg');
+  background-image: url('img/send.jpg');
   background-position: 290px 6px; 
   background-size:30px;
   background-repeat: no-repeat;
