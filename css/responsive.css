@@ -111,6 +111,9 @@
   }
   /* Extra 3 end --- by ilham_elhamdi*/
 
+
+/* footer  by khusnul */
+
     footer input[type=text] {
   width: 100%;
   box-sizing: border-box;
@@ -129,9 +132,6 @@
   float:center;
 }
 
-
-
-/* footer  by khusnul */
 footer .list-footer{
   float: center;
   margin-top: 40px;
