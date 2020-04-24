@@ -42,7 +42,7 @@
   border-radius: 4px;
   font-size: 16px;
   background-color: white;
-  background-image: url('img/send.jpg');
+  background-image: url('../img/send.jpg');
   background-position: 290px 6px; 
   background-size:30px;
   background-repeat: no-repeat;
@@ -124,7 +124,7 @@
   border-radius: 4px;
   font-size: 16px;
   background-color: white;
-  background-image: url('img/send.jpg');
+  background-image: url('../img/send.jpg');
   background-position: 290px 6px; 
   background-size:30px;
   background-repeat: no-repeat;
