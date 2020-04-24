@@ -127,7 +127,7 @@ header {
 }
 
 .logo {
-  width: 124px;
+  width: 150px;
   height: 50px;
   color: blue;
   font-size: 30px;
@@ -291,7 +291,7 @@ footer input[type=text] {
   font-size: 16px;
   background-color: white;
   background-image: url('../img/send.jpg');
-  background-position: 290px 6px; 
+  background-position: 340px 6px; 
   background-size:30px;
   background-repeat: no-repeat;
   padding: 12px 20px 12px 40px;
