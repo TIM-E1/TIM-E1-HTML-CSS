@@ -1,4 +1,6 @@
 
+/*Tablet*/
+
 @media all and (max-width: 1000px) {
   .lesson {
     width: 50%;
@@ -55,6 +57,7 @@
 }
 
 
+/*Smartphone*/
 
 @media all and (max-width: 670px) {
   .lesson {
