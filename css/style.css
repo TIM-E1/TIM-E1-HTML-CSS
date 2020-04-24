@@ -24,7 +24,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 190px 0;
-  background-image: url(http://127.0.0.1/belajarhtml&css/img/image.jpg);
+  background-image: url(http://127.0.0.1/github/TIM-E1-HTML-CSS/img/gambar-1.jpg);
   background-color:rgba(255,255,255,0.8);
   background-size: cover;
   color: white;
@@ -92,7 +92,7 @@ input[type=text] {
   border-radius: 4px;
   font-size: 16px;
   background-color: white;
-  background-image: url('http://127.0.0.1/belajarhtml&css/img/cari.png');
+  background-image: url('http://127.0.0.1/github/TIM-E1-HTML-CSS/img/cari.png');
   background-position: 4px 6px; 
   background-size:30px;
   background-repeat: no-repeat;
