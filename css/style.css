@@ -89,7 +89,7 @@ a {
 
 
 
-input[type=text] {
+.top-wrapper input[type=text] {
   width: 120px;
   box-sizing: border-box;
   border: 2px solid #ccc;
@@ -108,7 +108,7 @@ input[type=text] {
   opacity: 0.6;
 }
 
-input[type=text]:focus {
+.top-wrapper input[type=text]:focus {
   width: 50%;
   opacity: 0.5;
   color:black;
@@ -272,7 +272,7 @@ opacity: 0.9;
 }
 /* Extra 3 end --- by ilham_elhamdi*/
 
-/* footer */
+/* footer   by khusnul*/
 footer{
   margin-top:0px;
   padding: 30px;
@@ -320,4 +320,4 @@ footer .list-footer:hover{
   margin-top: 40px;
   animation: text 3s 1;
 }
-/* footer */
+/* footer  by khusnul */
