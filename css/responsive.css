@@ -129,4 +129,29 @@
   float:center;
 }
 
+
+
+/* footer  by khusnul */
+footer .list-footer{
+  float: center;
+  margin-top: 40px;
+}
+footer .list-footer a{
+  margin: 5px;
+  color: white;
+  opacity: 0.6;
+}
+footer .list-footer a:hover{
+  color: white;
+  opacity: 1;
+}
+
+footer .list-footer:hover{
+  float: center;
+  margin-top: 40px;
+  animation: text 3s 1;
+}
+
+/* footer  by khusnul */
+
 }
