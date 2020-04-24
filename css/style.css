@@ -238,7 +238,8 @@ header {
 .extra-3 .map-wrapper {
   width: 33%;
   flex: auto;
-  background-color: #828B92;
+  background-image: url("../img/map.jpg");
+  background-size: cover;
   border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
