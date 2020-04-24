@@ -16,6 +16,7 @@ a {
 }
 
 .container {
+  text-transform: uppercase;
   max-width: 1170px;
   width: 100%;
   padding: 0 15px;
@@ -36,6 +37,7 @@ a {
   font-size: 45px;
   letter-spacing: 5px;
   margin-bottom: 10px;
+  animation: text 3s 1;
 }
 
 .top-wrapper p {
@@ -43,6 +45,20 @@ a {
   font-size: 20px;
   font-family: sans-serif;
   margin-bottom: 3px;
+  color:#6ab04c;
+}
+
+@keyframes text{
+
+  0%{
+    color:black;
+    margin-bottom: -5px;
+  }
+  30%{
+    letter-spacing: 10px;
+    margin-bottom: -5px;
+  }
+
 }
 
 /*.btn-wrapper {
@@ -85,8 +101,14 @@ a {
 }*/
 
 
+
+
+
+
+
+
 input[type=text] {
-  width: 1px;
+  width: 120px;
   box-sizing: border-box;
   border: 2px solid #ccc;
   border-radius: 4px;
