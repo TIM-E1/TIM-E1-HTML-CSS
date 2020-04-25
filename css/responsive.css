@@ -115,6 +115,23 @@
   /* Extra 3 end --- by ilham_elhamdi*/
 
 
+  /* Extra 3 begin --- by insanul akbar*/
+
+  .extra1 h2 {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .content h1 {
+  width: 60%;
+  margin: 0px;
+  padding: 0px;
+  }
+  /* Extra 3 end --- by insanul akbar*/
+  
+
+
 /* footer  by khusnul */
 
     footer input[type=text] {
@@ -155,6 +172,9 @@ footer .list-footer:hover{
   animation: text 3s 1;
 }
 
+
+
 /* footer  by khusnul */
 
 }
+
