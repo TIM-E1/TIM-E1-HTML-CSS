@@ -54,6 +54,7 @@
 }
 
 
+
 }
 
 
@@ -115,20 +116,6 @@
   /* Extra 3 end --- by ilham_elhamdi*/
 
 
-  /* Extra 3 begin --- by insanul akbar*/
-
-  .extra1 h2 {
-    width: 100%;
-    margin: 0px;
-    padding: 0px;
-  }
-
-  .content h1 {
-  width: 60%;
-  margin: 0px;
-  padding: 0px;
-  }
-  /* Extra 3 end --- by insanul akbar*/
   
 
 
@@ -177,4 +164,29 @@ footer .list-footer:hover{
 /* footer  by khusnul */
 
 }
+
+/* Insanull Akbar Extra 1
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+
+  .judul h2 {
+    font-size: 20px;
+  }
+  
+  .content {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+
+  
+  .judul {
+    width: 100%;
+  }
+}
+
+/* Insanull Akbar Extra 1
 
