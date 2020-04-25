@@ -240,6 +240,7 @@ header {
   flex: auto;
   background-image: url("../img/map.jpg");
   background-size: cover;
+  background-position: center center;
   border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
