@@ -208,6 +208,7 @@ footer .list-footer:hover{
 }
 
 
+
 @media all and (max-width: 870px) { 
 
   .malasngoding-slider { 
@@ -224,7 +225,7 @@ footer .list-footer:hover{
 
 }
 
-@media all and (max-width: 629px) { 
+@media all and (max-width: 700px) { 
 
   .malasngoding-slider { 
   width: 500px;
@@ -234,6 +235,22 @@ footer .list-footer:hover{
 .isi-slider img { 
   width: 500px;
   height: 450px;
+}
+
+
+
+}
+
+@media all and (max-width: 500px) { 
+
+  .malasngoding-slider { 
+  width: 410px;
+  height: 350px; 
+}
+ 
+.isi-slider img { 
+  width: 400px;
+  height: 350px;
 }
 
 
