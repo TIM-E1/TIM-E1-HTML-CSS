@@ -15,6 +15,10 @@
 
   /*Extra 1 begin --- by insanul_akbar*/
 
+    .judul h2 {
+    font-size: 20px;
+  }
+
   .extra1 {
   padding-bottom: 80px;
   padding-left: 5%;
@@ -28,6 +32,16 @@
     width: 50%;
     margin-bottom: 50px;
   }
+
+    .malasngoding-slider { 
+  width: 768px;
+  height: 400px; 
+}
+ 
+.isi-slider img { 
+  width: 768px;
+  height: 400px;
+}
   /*Extra 1 begin --- by insanul_akbar*/
 
 
@@ -114,9 +128,26 @@
   }
 
    /*Extra 1 begin --- by insanul_akbar*/
+   .judul {
+    width: 100%;
+  }
+
   .lesson {
     width: 100%;
   }
+
+
+  .malasngoding-slider { 
+  width: 568px;
+  height: 350px; 
+}
+ 
+.isi-slider img { 
+  width: 568px;
+  height: 350px;
+}
+
+
   /*Extra 1 begin --- by insanul_akbar*/
 
 
@@ -184,29 +215,3 @@ footer .list-footer:hover{
 /* footer  by khusnul */
 
 }
-
-/* Insanull Akbar Extra 1
-/* Untuk Tablet */
-@media all and (max-width: 1000px) {
-
-  .judul h2 {
-    font-size: 20px;
-  }
-  
-  .content {
-    width: 50%;
-    margin-bottom: 50px;
-  }
-}
-
-/* Untuk Smartphone */
-@media all and (max-width: 670px) {
-
-  
-  .judul {
-    width: 100%;
-  }
-}
-
-/* Insanull Akbar Extra 1
-
