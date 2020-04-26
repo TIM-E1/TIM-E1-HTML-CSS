@@ -168,6 +168,14 @@ header:hover {
   color: white;
 }
 
+.menu-icon {
+  color: inherit;
+  float: right;
+  font-size: 35px;
+  padding: 15px 0;
+  margin-right: 15px;
+  display: none;
+}
 
 /* footer 1  by insanul akbar*/
 .extra1 {
