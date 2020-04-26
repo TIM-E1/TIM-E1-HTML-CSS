@@ -1,10 +1,10 @@
 * {
   box-sizing: border-box;
+  font-family: "Arial";
 }
 
 body {
   margin: 0;
-  font-family: "Lucida Grande";
 }
 
 a {
@@ -149,6 +149,7 @@ header {
   color: #341f97;
   display: block;
   float: left;
+  font-size: 15px;
   transition: all 0.6s;
 }
 
@@ -218,7 +219,7 @@ header {
 /* Extra 3 begin --- by ilham_elhamdi*/
 .extra-3 {
   width: 100%;
-  background-color: white;
+  background-color: #f1f2f6;
   font-family: sans-serif;
 }
 .extra-3 .container {
