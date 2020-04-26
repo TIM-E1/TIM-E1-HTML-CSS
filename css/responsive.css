@@ -215,3 +215,36 @@ footer .list-footer:hover{
 /* footer  by khusnul */
 
 }
+
+
+@media all and (max-width: 870px) { 
+
+  .malasngoding-slider { 
+  width: 630px;
+  height: 450px; 
+}
+ 
+.isi-slider img { 
+  width: 630px;
+  height: 450px;
+}
+
+
+
+}
+
+@media all and (max-width: 629px) { 
+
+  .malasngoding-slider { 
+  width: 500px;
+  height: 450px; 
+}
+ 
+.isi-slider img { 
+  width: 500px;
+  height: 450px;
+}
+
+
+
+}
