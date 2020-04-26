@@ -2,10 +2,7 @@
 /*Tablet*/
 
 @media all and (max-width: 1000px) {
-  .lesson {
-    width: 50%;
-    margin-bottom: 50px;
-  }
+
   
   .top-wrapper h1 {
     font-size: 32px;
@@ -14,6 +11,17 @@
   .heading h2 {
     font-size: 20px;
   }
+
+
+  /*Extra 1 begin --- by insanul_akbar*/
+  .lesson {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+  /*Extra 1 begin --- by insanul_akbar*/
+
+
+
 
   /*Extra 3 begin --- by ilham_elhamdi*/
   .extra-3 h2 {
@@ -60,11 +68,7 @@
 
 /*Smartphone*/
 
-@media all and (max-width: 670px) {
-  .lesson {
-    width: 100%;
-  }
-  
+@media all and (max-width: 670px) {  
   footer {
     text-align: center;
   }
@@ -98,6 +102,12 @@
     font-size: 14px;
     line-height: 20px;
   }
+
+   /*Extra 1 begin --- by insanul_akbar*/
+  .lesson {
+    width: 100%;
+  }
+  /*Extra 1 begin --- by insanul_akbar*/
 
 
   /* Extra 3 begin --- by ilham_elhamdi*/

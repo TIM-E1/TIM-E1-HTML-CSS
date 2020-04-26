@@ -158,16 +158,62 @@ header {
   color: white;
 }
 
-/* Tambahkan CSS untuk menu-icon */
-.menu-icon {
-  color: white;
-  float: right;
-  font-size: 25px;
-  padding: 21px 0;
-  /* Gantikan property display ke none */
-  display:none;
-  
+
+/* footer 1  by insanul akbar*/
+.extra1 {
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-image: url('../img/4.jpg');
+  background-size:cover;
+  text-align: center;
 }
+
+.lesson{
+  float: left;
+  width: 25%;
+}
+
+.judul-icon {
+  position: relative;
+}
+
+.container {
+  max-width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.judul-icon p {
+  position: absolute;
+  top: 44%;
+  width: 100%;
+  color: white;
+}
+
+.judul h2 {
+  font-weight: bold;
+  font-size:30px;
+}
+
+.content h1 {
+  width: 80%;
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 15px;
+  font-size:30px;
+  color:black;
+}
+
+.text {
+  width: 80%;
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 15px;
+  color: #b3aeb5;
+}
+/* Extra 1  by insanul akbar*/
+
 
 /* Extra 3 begin --- by ilham_elhamdi*/
 .extra-3 {
@@ -323,58 +369,3 @@ footer .list-footer:hover{
   animation: text 3s 1;
 }
 /* footer  by khusnul */
-
-/* footer   by insanul akbar*/
-.extra1 {
-  padding-bottom: 80px;
-  padding-left: 5%;
-  padding-right: 5%;
-  background-image: url('../img/4.jpg');
-  background-size:cover;
-  text-align: center;
-}
-
-.content {
-  float: left;
-  width: 25%;
-}
-
-.judul-icon {
-  position: relative;
-}
-
-.container {
-  max-width: 1170px;
-  padding: 0 15px;
-  margin: 0 auto;
-}
-
-.judul-icon p {
-  position: absolute;
-  top: 44%;
-  width: 100%;
-  color: white;
-}
-
-.judul h2 {
-  font-weight: bold;
-  font-size:30px;
-}
-
-.content h1 {
-  width: 80%;
-  display: inline-block;
-  margin-top: 15px;
-  font-size: 15px;
-  font-size:30px;
-  color:black;
-}
-
-.text {
-  width: 80%;
-  display: inline-block;
-  margin-top: 15px;
-  font-size: 15px;
-  color: #b3aeb5;
-}
-/* footer   by insanul akbar*/
