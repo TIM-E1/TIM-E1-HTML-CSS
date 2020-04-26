@@ -14,7 +14,9 @@
 
 
   /*Extra 1 begin --- by insanul_akbar*/
-
+  .extra1 {
+    background-image: none;
+  }
     .judul h2 {
     font-size: 20px;
   }
