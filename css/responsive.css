@@ -1,7 +1,7 @@
 
 /*Tablet*/
 
-@media all and (max-width: 1000px) {
+@media all and (max-width: 1000px){
 
   
   .top-wrapper h1 {
@@ -26,18 +26,73 @@
     margin-bottom: 50px;
   }
 
-    .malasngoding-slider { 
-  width: 768px;
-  height: 400px; 
-}
- 
-.isi-slider img { 
-  width: 768px;
-  height: 400px;
-}
   /*Extra 1 begin --- by insanul_akbar*/
 
+  /*Extra 2 begin --- by */
+  .call_to_action{
+  width: 100%;
+  height: 460px;
+  background-color: #f7f7f7;
+  overflow: hidden;
+  
+}
 
+.call_to_action img{
+  width: 562px;
+  margin-top: 90px;
+  margin-left: -99px;
+  float: left;
+}
+.call_to_action .cta_desc{
+  width: 350px;
+  float: right;
+  margin-top: 60px;
+}
+
+.call_to_action h3{
+  font-family: 'LatoBold', arial;
+  font-weight: bold;
+  color: #646363;
+  font-size: 21px;
+  text-transform: uppercase;
+  letter-spacing: .5px;
+  margin-bottom: 30px;
+}
+
+.call_to_action p{
+  font-family: 'LatoRegular', arial;
+  color: #7e7e7e;
+  font-size: 15px;
+  letter-spacing: .5px;
+  line-height: 25px;
+  margin-bottom: 25px;
+}
+
+.call_to_action a.cta_btn{
+  padding: 15px 20px;
+  display: inline-block;
+  color: #fff;
+  font-family: "LatoBold", arial;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-decoration: none;
+
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -o-border-radius: 2px;
+
+  background-color: #eba151;
+
+  box-shadow: 0 3px 0 #cd8335;
+  -moz-box-shadow: 0 3px 0 #cd8335;
+  -webkit-box-shadow: 0 3px 0 #cd8335;
+  -o-box-shadow: 0 3px 0 #cd8335;
+}
+
+  /*Extra 2 begin --- by */
 
 
   /*Extra 3 begin --- by ilham_elhamdi*/
@@ -81,6 +136,7 @@
 
 
 }
+
 
 
 /*Smartphone*/
@@ -129,20 +185,69 @@
     width: 100%;
   }
 
+  /*Extra 1 begin --- by insanul_akbar*/ 
 
-  .malasngoding-slider { 
-  width: 568px;
-  height: 350px; 
+  /*Extra 2 begin --- by */
+
+
+
+  .call_to_action img{
+  width: 130%;
+  float: center;
 }
- 
-.isi-slider img { 
-  width: 568px;
-  height: 350px;
+.call_to_action .cta_desc{
+  width: 261px;
+  float: left;
+}
+
+.call_to_action h3{
+  font-family: 'LatoBold', arial;
+  font-weight: bold;
+  color: #646363;
+  font-size: 21px;
+  text-transform: uppercase;
+  letter-spacing: .5px;
+  margin-bottom: 30px;
+}
+
+.call_to_action p{
+  font-family: 'LatoRegular', arial;
+  color: #7e7e7e;
+  font-size: 15px;
+  letter-spacing: .5px;
+  line-height: 25px;
+  margin-bottom: 25px;
+}
+
+.call_to_action a.cta_btn{
+  padding: 15px 20px;
+  display: inline-block;
+  color: #fff;
+  font-family: "LatoBold", arial;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-decoration: none;
+
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -o-border-radius: 2px;
+
+  background-color: #eba151;
+
+  box-shadow: 0 3px 0 #cd8335;
+  -moz-box-shadow: 0 3px 0 #cd8335;
+  -webkit-box-shadow: 0 3px 0 #cd8335;
+  -o-box-shadow: 0 3px 0 #cd8335;
 }
 
 
-  /*Extra 1 begin --- by insanul_akbar*/
 
+
+
+  /*Extra 2 begin --- by */
 
   /* Extra 3 begin --- by ilham_elhamdi*/
   .extra-3 h2 {
@@ -211,50 +316,5 @@ footer .list-footer:hover{
 
 
 
-@media all and (max-width: 870px) { 
-
-  .malasngoding-slider { 
-  width: 630px;
-  height: 450px; 
-}
- 
-.isi-slider img { 
-  width: 630px;
-  height: 450px;
-}
 
 
-
-}
-
-@media all and (max-width: 700px) { 
-
-  .malasngoding-slider { 
-  width: 500px;
-  height: 450px; 
-}
- 
-.isi-slider img { 
-  width: 500px;
-  height: 450px;
-}
-
-
-
-}
-
-@media all and (max-width: 600px) { 
-
-  .malasngoding-slider { 
-  width: 410px;
-  height: 350px; 
-}
- 
-.isi-slider img { 
-  width: 400px;
-  height: 350px;
-}
-
-
-
-}
