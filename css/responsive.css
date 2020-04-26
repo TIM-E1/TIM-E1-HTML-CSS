@@ -441,7 +441,7 @@ footer .list-footer:hover{
   -o-box-shadow: 0 3px 0 #cd8335;
 }}
 
-@media all and (max-width: 340px) {
+@media all and (max-width: 350px) {
 
   .call_to_action{
   width: 100%;
