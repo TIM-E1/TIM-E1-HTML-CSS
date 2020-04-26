@@ -169,11 +169,6 @@ header:hover {
 }
 
 .menu-icon {
-  color: inherit;
-  float: right;
-  font-size: 35px;
-  padding: 15px 0;
-  margin-right: 15px;
   display: none;
 }
 
