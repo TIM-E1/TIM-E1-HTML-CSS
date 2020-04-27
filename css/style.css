@@ -186,6 +186,14 @@ header:hover {
 .lesson{
   float: left;
   width: 25%;
+  color:black:
+}
+
+/* Khusnul : atur font biar lebih rapi */
+.lesson p {
+   font-family:Poppins;
+   font-size:10px;
+  
 }
 
 .judul-icon {
@@ -211,13 +219,17 @@ header:hover {
   font-size:30px;
 }
 
-.content h1 {
+.contents h1 {
   width: 80%;
   display: inline-block;
   margin-top: 15px;
   font-size: 15px;
-  font-size:30px;
+  
   color:black;
+}
+
+.contents p {
+	color:black;
 }
 
 .txt {
