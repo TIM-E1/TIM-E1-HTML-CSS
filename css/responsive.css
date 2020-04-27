@@ -62,6 +62,14 @@
   margin-bottom: 30px;
 }
 
+.call_to_action ul{
+  font-family:Poppins;
+  font-size: 14px;
+  letter-spacing: .5px;
+  line-height: 20px;
+  margin-bottom: 20px;
+  text-align: left;
+}
 .call_to_action p{
   font-family: 'LatoRegular', arial;
   color: #7e7e7e;
@@ -277,6 +285,15 @@
   text-transform: uppercase;
   letter-spacing: .5px;
   margin-bottom: 30px;
+}
+
+.call_to_action ul{
+  font-family:Poppins;
+  font-size: 12px;
+  letter-spacing: .5px;
+  line-height: 18px;
+  margin-bottom: 20px;
+  text-align: left;
 }
 
 .call_to_action p{
