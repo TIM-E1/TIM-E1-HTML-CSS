@@ -15,9 +15,10 @@
   /*Extra 1 begin --- by insanul_akbar*/
   .extra1 {
     background-image: none;
+    background-color: white;
   }
     .judul h2 {
-    font-size: 20px;
+    font-size: 26px;
   }
 
   .lesson {
@@ -46,6 +47,9 @@
   width: 350px;
   float: left;
   margin-top: 60px;
+}
+.call_to_action h2{
+  font-size: 26px;
 }
 
 .call_to_action h3{
@@ -83,12 +87,6 @@
   -webkit-border-radius: 2px;
   -o-border-radius: 2px;
 
-  background-color: #eba151;
-
-  box-shadow: 0 3px 0 #cd8335;
-  -moz-box-shadow: 0 3px 0 #cd8335;
-  -webkit-box-shadow: 0 3px 0 #cd8335;
-  -o-box-shadow: 0 3px 0 #cd8335;
 }
 
   /*Extra 2 begin --- by */
@@ -96,7 +94,7 @@
 
   /*Extra 3 begin --- by ilham_elhamdi*/
   .extra-3 h2 {
-    font-size: 24px;
+    font-size: 26px;
   }
   .extra-3 .form-wrapper {
     width: 100%;
@@ -190,12 +188,6 @@
   -webkit-border-radius: 2px;
   -o-border-radius: 2px;
 
-  background-color: #eba151;
-
-  box-shadow: 0 3px 0 #cd8335;
-  -moz-box-shadow: 0 3px 0 #cd8335;
-  -webkit-box-shadow: 0 3px 0 #cd8335;
-  -o-box-shadow: 0 3px 0 #cd8335;
 }}
 
 
@@ -206,9 +198,8 @@
     display: block;
     color: inherit;
     float: right;
-    font-size: 35px;
-    padding: 15px 0;
-    margin-right: 15px;
+    font-size: 29px;
+    padding: 18px;
   }
 
   footer {
@@ -249,6 +240,10 @@
    .judul {
     width: 100%;
   }
+  .judul h2 {
+    font-size: 20px;
+  }
+
 
   .lesson {
     width: 100%;
@@ -271,7 +266,9 @@
   width: 250px;
   float: left;
 }
-
+.call_to_action h2{
+  font-size: 20px;
+}
 .call_to_action h3{
   font-family: 'LatoBold', arial;
   font-weight: bold;
@@ -307,12 +304,6 @@
   -webkit-border-radius: 2px;
   -o-border-radius: 2px;
 
-  background-color: #eba151;
-
-  box-shadow: 0 3px 0 #cd8335;
-  -moz-box-shadow: 0 3px 0 #cd8335;
-  -webkit-box-shadow: 0 3px 0 #cd8335;
-  -o-box-shadow: 0 3px 0 #cd8335;
 }
 
 
@@ -323,7 +314,7 @@
 
   /* Extra 3 begin --- by ilham_elhamdi*/
   .extra-3 h2 {
-    font-size: 22px;
+    font-size: 20px;
   }
   .extra-3 .name, .extra-3 .email {
     width: 100%;
@@ -433,12 +424,6 @@ footer .list-footer:hover{
   -webkit-border-radius: 2px;
   -o-border-radius: 2px;
 
-  background-color: #eba151;
-
-  box-shadow: 0 3px 0 #cd8335;
-  -moz-box-shadow: 0 3px 0 #cd8335;
-  -webkit-box-shadow: 0 3px 0 #cd8335;
-  -o-box-shadow: 0 3px 0 #cd8335;
 }}
 
 @media all and (max-width: 350px) {
@@ -501,12 +486,6 @@ footer .list-footer:hover{
   -webkit-border-radius: 2px;
   -o-border-radius: 2px;
 
-  background-color: #eba151;
-
-  box-shadow: 0 3px 0 #cd8335;
-  -moz-box-shadow: 0 3px 0 #cd8335;
-  -webkit-box-shadow: 0 3px 0 #cd8335;
-  -o-box-shadow: 0 3px 0 #cd8335;
 }}
 
 
